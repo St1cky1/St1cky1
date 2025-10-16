@@ -21,45 +21,33 @@
 
 <div align="center">
 
-### 🗓️ Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=St1cky1&theme=react-dark&hide_border=true&area=true)
+### 🗓️ GitHub Contributions
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=St1cky1&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contributions)
 
-### 📊 Statistics
+### 📈 GitHub Statistics
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact&hide=java,html,css" />
     </td>
   </tr>
 </table>
 
+### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green&hide_border=true)
 
 </div>
 
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact)
-
-</div>
-
-### 📈 Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St1cky1&theme=shadow_green&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green&hide_border=true)
-
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=St1cky1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributions
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=St1cky1&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 </div>
