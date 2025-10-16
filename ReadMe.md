@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![3D Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=1000&color=32BA83&center=true&vCenter=true&width=435&lines=🚀+Full+Stack+Developer;💻+Go+Backend+Expert;📊+Data+Engineer;🔧+Problem+Solver)
+![3D Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=1000&color=32BA83&center=true&vCenter=true&width=435&lines=👋+Добро+пожаловать+в+мой+профиль!;📚+Активно+изучаю+Go+и+бэкенд;🚀+Развиваю+навыки+архитектуры+ПО;📈+Осваиваю+микросервисы)
 
 </div>
 
