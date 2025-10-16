@@ -21,13 +21,24 @@
 
 <div align="center">
 
-### 🗓️ Contributions Calendar
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=St1cky1&theme=github-compact&hide_border=true&area=true)
+### 🗓️ Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=St1cky1&theme=react-dark&hide_border=true&area=true)
 
-### 📈 GitHub Stats
-![St1cky1's GitHub stats](https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)
+### 📊 Statistics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green&hide_border=true)
+
+</div>
 
 ### 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact)
