@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![3D Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=15&duration=4000&pause=1000&color=32BA83&center=true&vCenter=true&width=435&lines=👋+Добро+пожаловать+в+мой+профиль!;📚+Активно+изучаю+Go+и+бэкенд;🚀+Развиваю+навыки+архитектуры+ПО;📈+Осваиваю+микросервисы)
+![3D Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=4000&pause=1000&color=32BA83&center=true&vCenter=true&width=435&lines=👋+Добро+пожаловать+в+мой+профиль!;📚+Активно+изучаю+Go+и+бэкенд;🚀+Развиваю+навыки+архитектуры+ПО;📈+Осваиваю+микросервисы)
 
 </div>
 
