@@ -17,12 +17,22 @@
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 3D GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🗓️ 3D Contributions Calendar
-[![3D Contributions](https://github-contributions-api.deno.dev/St1cky1?format=3d&animation=true)](https://github.com/St1cky1)
+### 🗓️ Contributions Calendar
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=St1cky1&theme=github-compact&hide_border=true&area=true)
+
+### 📈 GitHub Stats
+![St1cky1's GitHub stats](https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green&hide_border=true)
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&layout=compact)
+
+</div>
 
 ### 📈 Activity Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St1cky1&theme=shadow_green&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)
