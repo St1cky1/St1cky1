@@ -19,6 +19,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=St1cky1&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=St1cky1&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+Инфографика тест
+
+![Stats](https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green)
+
+
 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=St1cky1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
