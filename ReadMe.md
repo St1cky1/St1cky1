@@ -21,7 +21,7 @@
 
 Инфографика тест
 
-![Stats](https://github-readme-stats.vercel.app/api?username=St1cky1&show_icons=true&theme=shadow_green)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=St1cky1&theme=shadow_green)
 
 
